@@ -184,6 +184,7 @@ pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 video.unrulymedia.com, 115018688080045007, RESELLER
 
 #Vungle
+vungle.com, 67cfc0327690520011422225, DIRECT, c107d686becd2d77
 vungle.com, 59e4bb543f0fa9a20900afa3, DIRECT, c107d686becd2d77
 vungle.com, 561e8d936b8d90f61a00146c, DIRECT, c107d686becd2d77
 sonobi.com,5b003395a5,RESELLER,d1a215d9eb5aee9e
