@@ -932,8 +932,8 @@ yandex.com, 95746987, RESELLER
 #Admob
 google.com, pub-6355070686471133, DIRECT, f08c47fec0942fa0
 
-#Facebook Ad Network
-facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
+#Meta
+facebook.com, 640757696343666, DIRECT, c3e20eee3f780d68
 
 #Unity
 unity.com, 13003, DIRECT, 96cabb5fbdde37a7
